@@ -20,18 +20,18 @@ p {
     text-align: center;
 }
 
-  .projects { 
+  /* .projects { 
     display:flex; 
     flex-wrap:wrap; 
-} 
+}  */
 /* condensed to save space */
-.project {
+/* .project {
     width: 50%;
     margin: 10px;
     padding: 20px 10px;
     background: white; /* pick a color */
-    border-radius: 45%;
-} 
+   /* border-radius: 10%;
+}  */
 
 img {
     display: block;
