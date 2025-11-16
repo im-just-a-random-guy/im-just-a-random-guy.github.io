@@ -1,1 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
 
+h3 {
+    font-size: 13;
+    text-align: center;
+}
+
+h4 {
+    font-size: 12;
+}
+
+p {
+    font-size: 11;
+}
