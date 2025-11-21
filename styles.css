@@ -23,8 +23,8 @@ p {
 img {
     display: block;
     margin: 0 auto;
-    height: auto;
-    width: auto;
+    height: 300;
+    width: 500;
 }
 span {
     text-align: center;
